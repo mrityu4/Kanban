@@ -1,0 +1,17 @@
+.display-container {
+  display: flex;
+  
+  
+  
+}
+
+.column {
+  flex: 1;
+  
+  
+  
+}
+.display-container h2{
+  text-align: center;
+
+}
